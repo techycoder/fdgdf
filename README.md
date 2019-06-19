@@ -1,8 +1,6 @@
 <br>
   	<p>
-		<a href="https://www.npmjs.com/package/krunker.js">
-			<img src="https://img.shields.io/npm/v/krunker.js.svg?maxAge=3600" alt="NPM version">
-			<img src="https://yt3.ggpht.com/-PXH7hCkUVLA/AAAAAAAAAAI/AAAAAAAAAAc/oDSLu0ZELm8/s88-mo-c-c0xffffffff-rj-k-no/photo.jpg?maxAge=3600" alt="NPM version">
+
 		</a>
 		<a href="https://www.npmjs.com/package/krunker.js">
 			<img src="https://img.shields.io/npm/dt/krunker.js.svg?maxAge=3600" alt="NPM downloads">
